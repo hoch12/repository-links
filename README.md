@@ -18,8 +18,8 @@ Here are the links to the full application repositories:
     * *Description:* System for managing book inventories and loans with a database.
     * *Link:* [https://github.com/hoch12/library-inventory-manager.git](https://github.com/hoch12/library-inventory-manager.git)
 * **P2P Banking Node**
-    * *Description:* A peer-to-peer banking node implementation using raw TCP sockets and multithreading to simulate distributed financial transactions.
-    * *Link:* [https://github.com/hoch12/p2p-banking-node.git](https://github.com/hoch12/p2p-banking-node.git)
+    * *Description:* Team project consisting of a peer-to-peer banking node implementation using raw TCP sockets and multithreading to simulate distributed financial transactions.
+    * *Link:* [https://github.com/quackextractor/P2P-team-project.git](https://github.com/quackextractor/P2P-team-project.git)
  
 
 ---
