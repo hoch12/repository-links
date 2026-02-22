@@ -21,8 +21,8 @@ Here are the links to the full application repositories:
     * *Description:* Team project consisting of a peer-to-peer banking node implementation using raw TCP sockets and multithreading to simulate distributed financial transactions.
     * *Link:* [https://github.com/quackextractor/P2P-team-project.git](https://github.com/quackextractor/P2P-team-project.git)   
 * **Car Market Analyzer**
-    * *Description:* A Machine Learning software project developed in Python that predicts the price of used cars based on real-world scraped data. The application includes a data scraper, a trained regression model, and a user-friendly interface for price estimation.
-    * *Link:* [https://github.com/hoch12/Car-Market-Analyzer.git](https://github.com/hoch12/Car-Market-Analyzer.git)
+    * *Description:* A Machine Learning software project developed in Python that predicts the price of apartments based on real-world scraped data. The application includes a data scraper, a trained regression model, and a user-friendly interface for price estimation.
+    * *Link:* [https://github.com/hoch12/Apartment-Market-Analyzer.git](https://github.com/hoch12/Apartment-Market-Analyzer.git)
  
 
 ---
