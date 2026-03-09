@@ -20,9 +20,9 @@ Here are the links to the full application repositories:
 * **P2P Banking Node**
     * *Description:* Team project consisting of a peer-to-peer banking node implementation using raw TCP sockets and multithreading to simulate distributed financial transactions.
     * *Link:* [https://github.com/quackextractor/P2P-team-project.git](https://github.com/quackextractor/P2P-team-project.git)   
-* **Car Market Analyzer**
-    * *Description:* A Machine Learning software project developed in Python that predicts the price of apartments based on real-world scraped data. The application includes a data scraper, a trained regression model, and a user-friendly interface for price estimation.
-    * *Link:* [https://github.com/hoch12/Apartment-Market-Analyzer.git](https://github.com/hoch12/Apartment-Market-Analyzer.git)
+* **Image Analyzer**
+    * *Description:* Image Analyzer is a Python application that uses Machine Learning to detect if an image contains a "middle finger" gesture (`f*ck you`).
+    * *Link:* [https://github.com/hoch12/Image-Analyzer.git](https://github.com/hoch12/Image-Analyzer.git)
  
 
 ---
